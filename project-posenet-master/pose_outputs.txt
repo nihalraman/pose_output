@@ -1,0 +1,17 @@
+   NOSE                 x=231  y=80   score=1.0
+  LEFT_EYE             x=251  y=67   score=1.0
+  RIGHT_EYE            x=211  y=65   score=1.0
+  LEFT_EAR             x=281  y=98   score=1.0
+  RIGHT_EAR            x=186  y=87   score=1.0
+  LEFT_SHOULDER        x=338  y=206  score=1.0
+  RIGHT_SHOULDER       x=138  y=211  score=1.0
+  LEFT_ELBOW           x=378  y=302  score=0.7
+  RIGHT_ELBOW          x=56   y=322  score=0.7
+  LEFT_WRIST           x=389  y=380  score=1.0
+  RIGHT_WRIST          x=74   y=377  score=0.9
+  LEFT_HIP             x=323  y=442  score=0.1
+  RIGHT_HIP            x=149  y=435  score=0.1
+  LEFT_KNEE            x=327  y=480  score=0.0
+  RIGHT_KNEE           x=62   y=471  score=0.1
+  LEFT_ANKLE           x=331  y=480  score=0.0
+  RIGHT_ANKLE          x=67   y=480  score=0.0
