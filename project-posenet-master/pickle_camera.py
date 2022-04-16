@@ -161,7 +161,7 @@ def main():
         shadow_text(svg_canvas, 10, 20, text_line)
         for pose in outputs:
             draw_pose(svg_canvas, pose, src_size, inference_box)
-            poses.append(pose.keypoints.items())
+            poses.append([pose.keypoints.items()])
 
         if n%100 == 0:
             pickle.dump(poses, open(f"data_{n}", "wb"))
